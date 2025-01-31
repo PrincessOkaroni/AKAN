@@ -9,5 +9,22 @@ Akan Name Generator is a web application that generates Akan names based on the 
 ## Author(s) Information
 
 - **OKARONI PURITY NEKESA**
+
   - GitHub: https://github.com/PrincessOkaroni/Akan-Name-Generator
   - Email: nekesapurity20@gmail.com
+
+  ## Setup Instructions
+
+1. Created arepository:
+   https://github.com/PrincessOkaroni/Akan-Name-Generator
+2. Navigate to the project directory:
+   cd AKAN
+3. Initiate git
+
+## BDD (Behavior Driven Development)
+
+| Behavior           | Input                    | Output                               |
+| ------------------ | ------------------------ | ------------------------------------ |
+| Enter birth date   | User inputs `2002-08-20` | Displays `Tuesday`                   |
+| Select gender      | User selects `Female`    | Displays `Abenaa`                    |
+| Generate Akan name | Click `Generate` button  | Displays `Your Akan name is 'Abenaa` |
