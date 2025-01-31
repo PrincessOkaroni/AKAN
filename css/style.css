@@ -26,3 +26,11 @@ h1 {
   line-height: 1.6;
   color: #666;
 }
+
+.form-container {
+  margin-top: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
